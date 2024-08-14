@@ -1,22 +1,22 @@
 
 
-# BaseKisi
+# Inheritance
 
-Bu proje, öğretmen ve öğrenci bilgilerini yönetmek için geliştirilmiş bir uygulamadır. Bu sistem, öğretmenlerin maaş bilgilerini ve öğrencilerin numaralarını takip etmenizi sağlar. Proje, .NET 8.0 kullanılarak C# dilinde geliştirilmiştir.
+Bu proje, Ã¶ÄŸretmen ve Ã¶ÄŸrenci bilgilerini yÃ¶netmek iÃ§in geliÅŸtirilmiÅŸ bir uygulamadÄ±r. Bu sistem, Ã¶ÄŸretmenlerin maaÅŸ bilgilerini ve Ã¶ÄŸrencilerin numaralarÄ±nÄ± takip etmenizi saÄŸlar. Proje, .NET 8.0 kullanÄ±larak C# dilinde geliÅŸtirilmiÅŸtir.
 
-## Proje Özellikleri
+## Proje Ã–zellikleri
 
-- **Öğrenci Yönetimi:** Öğrenci adı, soyadı ve öğrenci numarası gibi bilgileri yönetir.
-- **Öğretmen Yönetimi:** Öğretmen adı, soyadı ve maaş bilgilerini yönetir.
-- **Bilgi Görüntüleme:** Öğrenci ve öğretmen bilgilerini ekrana yazdırma özelliği sağlar.
+- **Ã–ÄŸrenci YÃ¶netimi:** Ã–ÄŸrenci adÄ±, soyadÄ± ve Ã¶ÄŸrenci numarasÄ± gibi bilgileri yÃ¶netir.
+- **Ã–ÄŸretmen YÃ¶netimi:** Ã–ÄŸretmen adÄ±, soyadÄ± ve maaÅŸ bilgilerini yÃ¶netir.
+- **Bilgi GÃ¶rÃ¼ntÃ¼leme:** Ã–ÄŸrenci ve Ã¶ÄŸretmen bilgilerini ekrana yazdÄ±rma Ã¶zelliÄŸi saÄŸlar.
 
-## Kullanılan Teknolojiler
+## KullanÄ±lan Teknolojiler
 
-- **C#**: Programlama dili olarak kullanılmıştır.
-- **.NET 8.0**: Uygulamanın geliştirilmesi için kullanılan .NET sürümüdür.
+- **C#**: Programlama dili olarak kullanÄ±lmÄ±ÅŸtÄ±r.
+- **.NET 8.0**: UygulamanÄ±n geliÅŸtirilmesi iÃ§in kullanÄ±lan .NET sÃ¼rÃ¼mÃ¼dÃ¼r.
 
-## Nasıl Çalıştırılır
+## NasÄ±l Ã‡alÄ±ÅŸtÄ±rÄ±lÄ±r
 
-1. **Proje Yükleme:** Visual Studio 2022 veya uygun bir IDE ile projeyi açın.
-2. **Çözümü Derleme:** Çözümü derleyin. Bunun için IDE'deki "Build" (Derle) seçeneğini kullanabilirsiniz.
-3. **Uygulamayı Çalıştırma:** Derlemeyi tamamladıktan sonra uygulamayı çalıştırın. Öğrenci ve öğretmen bilgilerini konsol üzerinde görebilirsiniz.
+1. **Proje YÃ¼kleme:** Visual Studio 2022 veya uygun bir IDE ile projeyi aÃ§Ä±n.
+2. **Ã‡Ã¶zÃ¼mÃ¼ Derleme:** Ã‡Ã¶zÃ¼mÃ¼ derleyin. Bunun iÃ§in IDE'deki "Build" (Derle) seÃ§eneÄŸini kullanabilirsiniz.
+3. **UygulamayÄ± Ã‡alÄ±ÅŸtÄ±rma:** Derlemeyi tamamladÄ±ktan sonra uygulamayÄ± Ã§alÄ±ÅŸtÄ±rÄ±n. Ã–ÄŸrenci ve Ã¶ÄŸretmen bilgilerini konsol Ã¼zerinde gÃ¶rebilirsiniz.
